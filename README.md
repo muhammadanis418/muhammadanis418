@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Muhammad Anis
 - 🇵🇰 Passionate Developer from Pakistan
-- I'm a passionate developer with expertise in frameworks like J2EE, Spring and Spring Boot.
+- I have an expertise in frameworks like J2EE, Spring and Spring Boot.
 - 💬 Ask me about Java development and Spring Boot.
 - 📫 How to reach me:[Email](https://www.gmail.com/in/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
