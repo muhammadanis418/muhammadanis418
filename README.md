@@ -2,7 +2,7 @@
 - 🇵🇰 Passionate Developer from Pakistan
 - I have an expertise in frameworks like J2EE, Spring and Spring Boot.
 - 💬 Ask me about Java development and Spring Boot.
-- 📫 How to reach me:[Email]([www.gmail.com/in](https://mail.google.com/mail/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/muhammadaaanis)
+- 📫 How to reach me:[Email](https://mail.google.com/mail/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/muhammadaaanis)
 
 
 ## Languages and Tools ##
