@@ -20,10 +20,23 @@
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
 
-
-
 ## 📊 GitHub Stats
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadanis418&show_icons=true&theme=dark)
+![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadanis418&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanis418&layout=compact&theme=chartreuse-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadanis418&theme=chartreuse-dark)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=muhammadanis418&theme=darkhub)
+
+---
+
+## 📈 Contribution Graph
+![Anis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadanis418&theme=chartreuse-dark)
+
+---
+
 
 ## 😄 Pronouns:
 - He/Him
