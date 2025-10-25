@@ -3,8 +3,29 @@
 - 💬 Ask me about Java development and Spring Boot.
 - 📫 How to reach me:[Email](https://mail.google.com/mail/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/muhammadaaanis)
 
+---
+
+## 📊 GitHub Overview
+
+
+| Stats | Top Languages by Repo | Top Languages by Commit |
+|:--:|:--:|:--:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=muhammadanis418&show_icons=true&theme=chartreuse-dark&count_private=true) | ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadanis418&theme=chartreuse_dark) | ![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadanis418&theme=chartreuse_dark) |
+
+---
+
+## 🧠 GitHub Summary Card
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadanis418&theme=chartreuse_dark)
+
+---
+
+## 📈 Contribution Graph
+![Anis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadanis418&theme=chartreuse-dark)
+
+---
 
 ## Languages and Tools ##
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![J2EE](https://img.shields.io/badge/J2EE-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,18 +39,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
-
-
-## 📊 GitHub Stats
-![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadanis418&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanis418&layout=compact&theme=chartreuse-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadanis418&theme=chartreuse-dark)
-
-
----
-
-## 📈 Contribution Graph
-![Anis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadanis418&theme=chartreuse-dark)
 
 ---
 
