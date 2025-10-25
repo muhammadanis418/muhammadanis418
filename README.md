@@ -5,16 +5,59 @@
 
 ---
 
-## 📊 GitHub Overview
 
+---
+
+<div align="center">
+  <h2>📊 GitHub Overview</h2>
+</div>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+  <div style="background-color:#0d1117; border-radius:10px; padding:10px; width:320px;">
+    <h4 align="center">Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadanis418&show_icons=true&theme=chartreuse-dark&count_private=true" width="100%">
+  </div>
+
+  <div style="background-color:#0d1117; border-radius:10px; padding:10px; width:320px;">
+    <h4 align="center">Top Languages by Repo</h4>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadanis418&theme=chartreuse_dark" width="100%">
+  </div>
+
+  <div style="background-color:#0d1117; border-radius:10px; padding:10px; width:320px;">
+    <h4 align="center">Top Languages by Commit</h4>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadanis418&theme=chartreuse_dark" width="100%">
+  </div>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadanis418&theme=chartreuse_dark" width="95%">
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadanis418&theme=chartreuse-dark" width="95%">
+</div>
+
+---
+
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadanis418&theme=darkhub&no-frame=true&row=1&column=6" width="95%">
+</div>
+
+---
 
 | Stats | Top Languages by Repo | Top Languages by Commit |
 |:--:|:--:|:--:|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=muhammadanis418&show_icons=true&theme=chartreuse-dark&count_private=true) | ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadanis418&theme=chartreuse_dark) | ![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadanis418&theme=chartreuse_dark) |
 
----
 
-## 🧠 GitHub Summary Card
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadanis418&theme=chartreuse_dark)
 
 ---
