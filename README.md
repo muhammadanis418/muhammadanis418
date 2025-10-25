@@ -25,10 +25,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanis418&layout=compact&theme=chartreuse-dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadanis418&theme=chartreuse-dark)
 
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=muhammadanis418&theme=darkhub)
 
 ---
 
