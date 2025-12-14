@@ -1,7 +1,6 @@
-## Hi 👋, I'm Muhammad Anis
--  I have an expertise in frameworks like J2EE, Spring and Spring Boot.
-- 💬 Ask me about Java development and Spring Boot.
-- 📫 How to reach me:[Email](https://mail.google.com/mail/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/muhammadaaanis)
+## Hi 👋,
+- I’m passionate about learning new technologies and exploring solutions, best practices, and innovative approaches.
+- 📫 Let’s connect:[Email](https://mail.google.com/mail/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/muhammadaaanis)
 
 ---
 
