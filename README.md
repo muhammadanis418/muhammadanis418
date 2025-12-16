@@ -1,6 +1,6 @@
 ## Hi 👋,
 - I’m passionate about learning new technologies and exploring solutions, best practices, and innovative approaches.
-- 📫 Let’s connect:[Email](https://mail.google.com/mail/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/muhammadaaanis)
+- 📫 Let’s connect: [Email](https://mail.google.com/mail/muhammadanis16734@gmail.com) [LinkedIn](https://www.linkedin.com/in/muhammadaaanis)
 
 ---
 
